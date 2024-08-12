@@ -109,7 +109,7 @@ class _MyAppState extends State<MyApp> {
                         height: 24,
                       ),
                       const Text(
-                        "Kiambu Water",
+                        "OSL",
                         style: TextStyle(
                             fontSize: 32,
                             color: Color.fromARGB(255, 28, 100, 140),

@@ -94,7 +94,7 @@ class _LandingState extends State<Landing> {
                         height: 24,
                       ),
                       const Text(
-                        "Kiambu Water \n UM Collect",
+                        "OSL \n UM Collect",
                         style: TextStyle(
                             fontSize: 44,
                             color: Color.fromARGB(255, 28, 100, 140),

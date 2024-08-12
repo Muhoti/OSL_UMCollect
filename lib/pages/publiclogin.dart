@@ -72,7 +72,7 @@ class _PublicLoginState extends State<PublicLogin> {
                                       height: 12,
                                     ),
                                     const Text(
-                                      "KWCL",
+                                      "OSL",
                                       style: TextStyle(
                                           fontSize: 32,
                                           color:
